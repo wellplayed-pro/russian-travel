@@ -8,12 +8,12 @@
 
 @media screen and (max-width: 705px) {
   .footer__item {
-    margin: 0 0 32px 0;
+    margin: 0 0 32px 16px;
   }
 }
 
 @media screen and (max-width: 705px) {
   .footer__item:last-child {
-    margin: 0 0 48px 0;
+    margin: 0 0 0 16px;
   }
 }

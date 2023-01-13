@@ -15,7 +15,7 @@
 }
 
 @media screen and (max-width: 380px) {
- .lead__caption {
-margin-left: 16px;
- }
+  .lead__caption {
+    margin-left: 16px;
+  }
 }

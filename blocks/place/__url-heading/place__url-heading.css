@@ -6,9 +6,3 @@
   padding: 0;
   text-transform: uppercase;
 }
-
-@media screen and (max-width: 790px) {
-  .place__url-heading {
-    line-height: 100%;
-  } 
- }
