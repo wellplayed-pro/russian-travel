@@ -6,13 +6,13 @@
   padding-bottom: 24px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .footer {
-    margin: 86px 24px 0;
+    margin: 88px 24px 0px;
   }
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 760px) {
   .footer {
     align-items: flex-start;
     flex-direction: column;
